@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">A Fullstack Software Engineer from Turkey 🇹🇷</h3>
 
----
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=yusufkrnz&style=flat-square&color=blue)
 
 ### 📌 About Me  
 🔹 Passionate about **Fullstack Web Development** and **System Architectures**  
@@ -10,7 +13,6 @@
 
 📫 Reach me at **wayneysf@gmail.com**
 
----
 
 ### 🌐 Connect with Me  
 <p align="left">
@@ -25,12 +27,7 @@
   </a>
 </p>
 
----
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yusufkrnz&style=flat-square&color=blue)
-
----
 
 <details>
   <summary>🚀 More</summary>
